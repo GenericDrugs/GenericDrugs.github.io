@@ -7,7 +7,7 @@ After spending most of my life tinkering with computers that eventually transfor
 
 ## Currently Reading: 📚
 
-  - [Pragmatic Programmer] (https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+  - [Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 ## Currently Learning: 🧠
 
