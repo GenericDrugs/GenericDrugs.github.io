@@ -2,7 +2,7 @@ title: Hugo Dias 🇵🇹
 description: Hey there 🖐️
 plugins:
   - jekyll-relative-links
-theme: jekyll-theme-slate
+theme: jekyll-theme-primer
 relative_links:
   enabled: true
   collections: true
