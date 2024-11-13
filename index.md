@@ -7,13 +7,13 @@ layout: default
 Your average computer and videogame nerd.  
 After spending most of my life tinkering with computers that eventually transformed into undertaking a bachelor's in computer science and fast forward to where i am now working for a software company for about 3 years.  
 
-### Currently Reading: 📚  
+## Currently Reading: 📚  
   - [Pragmatic Programmer] (https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
-### Currently Learning: 🧠  
+## Currently Learning: 🧠  
   - Golang
 
-### Skillset: ⌨️  
+## Skillset: ⌨️  
   - Portuguese (native)
   - English (professional proficiency)
   - TypeScript
@@ -26,11 +26,11 @@ After spending most of my life tinkering with computers that eventually transfor
   - AWS
   - GCP
 
-### Projects
+## Projects 💽
   - InClock (Final project at ISEL)  
     Organization tool for periodical events using Jetpack Compose(Web and Android) and Kotlin Multiplatform.
 
-### Experience: 💼  
+## Experience: 💼  
   Current  
   - Imaginary Cloud Since 2022
   Past Experience:  
@@ -40,7 +40,7 @@ After spending most of my life tinkering with computers that eventually transfor
   - Student at Digital (Professional School): 2015 - 2018
 
 
-### Favorite Videogames:🎮  
+## Favorite Videogames:🎮  
   - Deep Rock galactic
   - Metro Exodus
   - Red Dead Redemption 2
