@@ -2,7 +2,7 @@ title: [Hugo Dias]
 description: [Personal Bio]
 plugins:
   - jekyll-relative-links
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minima
 relative_links:
   enabled: true
   collections: true
