@@ -32,14 +32,11 @@ After spending most of my life tinkering with computers that eventually transfor
   - InClock (Final project at ISEL)  
     - Organization tool for periodical events using Jetpack Compose(Web and Android) and Kotlin Multiplatform (Alpha).
 
-## Current Employment: 💼
+## Experience: 💼
 
-  - [**Imaginary Cloud**](https://www.imaginarycloud.com/)
-
-## Past Experience: 🏃‍♂️
-
-  | Experience                                                           | Description                    | Duration    |
+| Experience                                                           | Description                    | Duration    |
 |----------------------------------------------------------------------|--------------------------------|-------------|
+| [**Imaginary Cloud**](https://www.imaginarycloud.com/)               | Current Employment             | 2022 - TBD  |
 | Student at Lisbon School of Engineering (ISEL)                       | Bachelor's in Computer Science | 2018 - 2022 |
 | Student Internship at UbiXploit - Information Assurance Technologies | Internship                     | 2018 - 2018 |
 | Student Internship at Plural Entertainment                           | Internship                     | 2017 - 2017 |
