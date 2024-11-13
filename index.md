@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello, :wave:
+## Hello, :wave:
 
 Hey, i'm Hugo for now this is a work in progress portfolio  
 I've at the time of writing this have been working for around 3 years, i have a Bachelor's in Computer Science that i acquired from the  Lisbon School of Engineering (ISEL).  
