@@ -37,7 +37,7 @@ After spending most of my life tinkering with computers that eventually transfor
   - Imaginary Cloud
     - Since 2022
 
-## Past Experience: 🏃‍♂️s
+## Past Experience: 🏃‍♂️
 
   | Experience                                                           | Description                    | Duration    |
 |----------------------------------------------------------------------|--------------------------------|-------------|
