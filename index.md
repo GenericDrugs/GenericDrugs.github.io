@@ -7,13 +7,13 @@ layout: default
 Hey, i'm Hugo for now this is a work in progress portfolio  
 I've at the time of writing this have been working for around 3 years, i have a Bachelor's in Computer Science that i acquired from the Lisbon School of Engineering (ISEL).  
   
-  ## Currently Reading: 📚
+  ## Currently Reading: 📚  
   - [Pragmatic Programmer] (https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
-  ## Currently Learning: 🧠
+  ## Currently Learning: 🧠  
   - Golang
 
-  ## Skillset: ⌨️
+  ## Skillset: ⌨️  
   - Portuguese (native)
   - English (professional proficiency)
   - TypeScript
@@ -26,17 +26,17 @@ I've at the time of writing this have been working for around 3 years, i have a 
   - AWS
   - GCP
 
-  ## Experience: 💼
-  ### Current
+  ## Experience: 💼  
+  ### Current  
   - Imaginary Cloud Since 2022
-  ### Past Experience:
+  ### Past Experience:  
   - Student at Lisbon School of Engineering (ISEL, Bachelor's in Computer Science): 2018 - 2022
   - Student Internship at UbiXploit - Information Assurance Technologies: 2018
   - Student Internship at Plural Entertainment: 2017
   - Student at Digital (Professional School): 2015 - 2018
 
 
-  ## Favorite Videogames:🎮
+  ## Favorite Videogames:🎮  
   - Deep Rock galactic
   - Metro Exodus
   - Red Dead Redemption 2
