@@ -1,5 +1,5 @@
 title: [Hugo Dias]
-description: [Hey, i'm Hugo 🖐️]
+description: [Hey i'm Hugo 🖐️]
 plugins:
   - jekyll-relative-links
 theme: jekyll-theme-slate
