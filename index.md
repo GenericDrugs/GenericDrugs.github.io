@@ -2,64 +2,69 @@
 layout: default
 ---
 
-Your average computer and videogame nerd.  
-After spending most of my life tinkering with computers that eventually transformed into undertaking a bachelor's in computer science and fast forward to where i am now working for a software company for about 3 years.  
+An avid computer and video game enthusiast turned professional, I’ve spent most of my life immersed in tech—starting with tinkering and troubleshooting, which naturally led me to pursue a bachelor’s degree in computer science. Fast forward to today, and I’m now three years into my career with a software company, where I get to apply my passion and skills every day to solve complex challenges and create impactful solutions.  
 
-## Currently Reading: 📚
+## Currently Reading 📚
+- [*The Pragmatic Programmer: 20th Anniversary Edition*](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
-  - [Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+## Currently Learning 🧠
+- **Golang**
 
-## Currently Learning: 🧠
+## Skillset ⌨️
 
-  - Golang
+### Languages
+- **Portuguese** (Native)
+- **English** (Professional proficiency)
 
-## Skillset: ⌨️
+### Programming Languages
+- **TypeScript** / **JavaScript**
+- **Java**
+- **C#**
+- **C**
+- **SQL**
+- **HTML**
 
-  - Portuguese (native)
-  - English (professional proficiency)
-  - TypeScript
-  - JavaScript
-  - Java
-  - SQL
-  - C#
-  - C
-  - HTML
-  - AWS
-  - GCP
+### Cloud Platforms
+- **AWS** (Amazon Web Services)
+- **GCP** (Google Cloud Platform)
 
 ## Projects 💽
 
-  - InClock (Final project at ISEL)  
-    - Organization tool for periodical events using Jetpack Compose(Web and Android) and Kotlin Multiplatform (Alpha).
+### InClock
+**Final Project at ISEL**
 
-## Experience: 💼
+A tool designed to organize and manage periodic events, built using:
+  - **Jetpack Compose** for UI (supports Web and Android platforms)
+  - **Kotlin Multiplatform (Alpha)** for shared code across Android and desktop environments
 
-| Experience                                                                                        | Duration    |
+## Experience 💼
+
+| Role                                                                                              | Duration    |
 |---------------------------------------------------------------------------------------------------|-------------|
-| [**Imaginary Cloud**](https://www.imaginarycloud.com/) 💼                                         | 2022 - TBD  |
-| [Student at Lisbon School of Engineering (ISEL)](https://www.isel.pt/)                            | 2018 - 2022 |
-| [Student Internship at UbiXploit - Information Assurance Technologies](https://www.ubixploit.pt/) | 2018 - 2018 |
-| [Student Internship at Plural Entertainment](https://pluralentertainment.com/en/)                 | 2017 - 2017 |
-| [Student at Digital (Professional School)]((https://escoladigital.com/))                          | 2015 - 2018 |
+| [**Software Developer at Imaginary Cloud**](https://www.imaginarycloud.com/)                     | 2022 - Present |
+| **Student, Lisbon School of Engineering (ISEL)** [Link](https://www.isel.pt/)                    | 2018 - 2022 |
+| **Student Internship, UbiXploit - Information Assurance Technologies** [Link](https://www.ubixploit.pt/) | 2018 |
+| **Student Internship, Plural Entertainment** [Link](https://pluralentertainment.com/en/)         | 2017 |
+| **Student, Digital (Professional School)** [Link](https://escoladigital.com/)                    | 2015 - 2018 |
 
-## Favorite Videogames:🎮
-  
-  - Deep Rock galactic
-  - Metro Exodus
-  - Red Dead Redemption 2
-  - Doom Eternal
-  - Dishonored
-  - Inscryption
-  - TitanFall 2
-  - CyberPunk 2077
-  - Skate 3
-  - Warhammer Space Marine 2
-  - Persona 3 Reload
-  - Pokemon White
-  - Pokemon Leaf Green
-  - UltraKill
-  - Hades
-  - Call of Duty Black Ops
+## Favorite Videogames 🎮
+
+- **Deep Rock Galactic**
+- **Metro Exodus**
+- **Red Dead Redemption 2**
+- **Doom Eternal**
+- **Dishonored**
+- **Inscryption**
+- **Titanfall 2**
+- **Cyberpunk 2077**
+- **Skate 3**
+- **Warhammer 40,000: Space Marine 2**
+- **Persona 3 Reload**
+- **Pokemon White**
+- **Pokemon Leaf Green**
+- **Ultrakill**
+- **Hades**
+- **Call of Duty: Black Ops**
   
 
   
