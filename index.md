@@ -16,8 +16,13 @@ I've at the time of writing this have been working for around 3 years, i have a 
   ## Skillset:
   - Portuguese (native)
   - English (professional proficiency)
-  - Typescript
+  - TypeScript
+  - JavaScript
   - Java
+  - SQL
+  - C#
+  - C
+  - HTML
 
   ## Experience:
   ### Current
