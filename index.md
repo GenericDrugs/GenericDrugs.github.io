@@ -9,3 +9,13 @@ I've at the time of writing this have been working for around 3 years, i have a 
   
   Currently Reading:  
    - [Pragmatic Programmer] (https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+
+  Currently Learning:
+
+  Skillset:
+
+  Previous Employments:
+
+  Favorite Videogames:
+
+  
