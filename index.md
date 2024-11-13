@@ -32,10 +32,9 @@ After spending most of my life tinkering with computers that eventually transfor
   - InClock (Final project at ISEL)  
     - Organization tool for periodical events using Jetpack Compose(Web and Android) and Kotlin Multiplatform (Alpha).
 
-## Current Experience: 💼
+## Current Employment: 💼
 
-  - Imaginary Cloud
-    - Since 2022
+  - [**Imaginary Cloud**](https://www.imaginarycloud.com/)
 
 ## Past Experience: 🏃‍♂️
 
