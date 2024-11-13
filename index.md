@@ -52,20 +52,16 @@ A tool designed to organize and manage periodic events, built using:
 
 - **Deep Rock Galactic**
 - **Metro Exodus**
-- **Red Dead Redemption 2**
 - **Doom Eternal**
 - **Dishonored**
 - **Inscryption**
 - **Titanfall 2**
 - **Cyberpunk 2077**
-- **Skate 3**
 - **Warhammer 40,000: Space Marine 2**
 - **Persona 3 Reload**
-- **Pokemon White**
 - **Pokemon Leaf Green**
 - **Ultrakill**
 - **Hades**
-- **Call of Duty: Black Ops**
   
 ## Contact Me 🔗
 
