@@ -2,7 +2,8 @@
 layout: default
 ---
 
-An avid computer and video game enthusiast turned professional, I’ve spent most of my life immersed in tech—starting with tinkering and troubleshooting, which naturally led me to pursue a bachelor’s degree in computer science. Fast forward to today, and I’m now three years into my career with a software company, where I get to apply my passion and skills every day to solve complex challenges and create impactful solutions.  
+An avid computer and video game enthusiast turned professional, I’ve spent most of my life immersed in tech—starting with tinkering and troubleshooting, which naturally led me to pursue a bachelor’s degree in computer science. Fast forward to today, and I’m now three years into my career with a software company, where I get to apply my passion and skills every day to solve complex challenges and create impactful solutions.
+![Myself](/assets/eosr6147.jpg)  
 
 ## Currently Reading 📚
 - [*The Pragmatic Programmer: 20th Anniversary Edition*](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
