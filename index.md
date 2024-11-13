@@ -30,7 +30,7 @@ After spending most of my life tinkering with computers that eventually transfor
 ## Projects 💽
 
   - InClock (Final project at ISEL)  
-    - Organization tool for periodical events using Jetpack Compose(Web and Android) and Kotlin Multiplatform.
+    - Organization tool for periodical events using Jetpack Compose(Web and Android) and Kotlin Multiplatform (Alpha).
 
 ## Current Experience: 💼
 
