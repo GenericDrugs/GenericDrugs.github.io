@@ -48,10 +48,6 @@ A tool designed to organize and manage periodic events, built using:
 | **Student Internship, Plural Entertainment** [Link](https://pluralentertainment.com/en/)         | 2017 |
 | **Student, Digital (Professional School)** [Link](https://escoladigital.com/)                    | 2015 - 2018 |
 
-## Contact Me 🔗
-
-- **Discord:** [Generic](https://discord.com/users/187105028513857536)
-
 ## Favorite Videogames 🎮
 
 - **Deep Rock Galactic**
@@ -71,5 +67,8 @@ A tool designed to organize and manage periodic events, built using:
 - **Hades**
 - **Call of Duty: Black Ops**
   
+## Contact Me 🔗
+
+- **Discord:** [Generic](https://discord.com/users/187105028513857536)
 
   
