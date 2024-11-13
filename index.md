@@ -4,9 +4,9 @@ layout: default
 
 ## Hello 🖐️
 
-Hey, i'm Hugo for now this is a work in progress portfolio  
-I've at the time of writing this have been working for around 3 years, i have a Bachelor's in Computer Science that i acquired from the Lisbon School of Engineering (ISEL).  
-  
+Hey, i'm Hugo your average computer and videogame nerd.  
+After spending most of my life tinkering with computers that eventually transformed into undertaking a bachelor's in computer science and fast forward to where i am now working for a software company for about 3 years.  
+
 ### Currently Reading: 📚  
   - [Pragmatic Programmer] (https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
