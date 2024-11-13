@@ -1,8 +1,8 @@
 title: [Hugo Dias]
-description: [Personal Bio]
+description: [Hey, i'm Hugo 🖐️]
 plugins:
   - jekyll-relative-links
-theme: jekyll-theme-Minima
+theme: jekyll-theme-slate
 relative_links:
   enabled: true
   collections: true

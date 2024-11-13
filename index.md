@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Hey, i'm Hugo 🖐️  
-
 Your average computer and videogame nerd.
 
 After spending most of my life tinkering with computers that eventually transformed into undertaking a bachelor's in computer science and fast forward to where i am now working for a software company for about 3 years.  
