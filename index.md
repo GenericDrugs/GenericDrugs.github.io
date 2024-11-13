@@ -34,13 +34,13 @@ After spending most of my life tinkering with computers that eventually transfor
 
 ## Experience: 💼
 
-| Experience                                                           | Duration    |
-|----------------------------------------------------------------------|-------------|
-| [**Imaginary Cloud**](https://www.imaginarycloud.com/)               | 2022 - TBD  |
-| Student at Lisbon School of Engineering (ISEL)                       | 2018 - 2022 |
-| Student Internship at UbiXploit - Information Assurance Technologies | 2018 - 2018 |
-| Student Internship at Plural Entertainment                           | 2017 - 2017 |
-| Student at Digital (Professional School)                             | 2015 - 2018 |
+| Experience                                                                                        | Duration    |
+|---------------------------------------------------------------------------------------------------|-------------|
+| [**Imaginary Cloud**](https://www.imaginarycloud.com/) 💼                                         | 2022 - TBD  |
+| [Student at Lisbon School of Engineering (ISEL)](https://www.isel.pt/)                            | 2018 - 2022 |
+| [Student Internship at UbiXploit - Information Assurance Technologies](https://www.ubixploit.pt/) | 2018 - 2018 |
+| [Student Internship at Plural Entertainment](https://pluralentertainment.com/en/)                 | 2017 - 2017 |
+| [Student at Digital (Professional School)]((https://escoladigital.com/))                          | 2015 - 2018 |
 
 ## Favorite Videogames:🎮
   
