@@ -24,6 +24,8 @@ An avid computer and video game enthusiast turned professional, I’ve spent mos
 - **C**
 - **SQL**
 - **HTML**
+- **REACT**
+- **PYTHON**
 
 ### Cloud Platforms
 - **AWS** (Amazon Web Services)
