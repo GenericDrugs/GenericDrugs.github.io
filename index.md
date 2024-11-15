@@ -71,6 +71,8 @@ A tool designed to organize and manage periodic events, built using:
   
 ## Contact Me 🔗
 
+- **Email:** hugomdias.st@gmail.com
+- **Github:** [GenericDrugs](https://github.com/GenericDrugs)
 - **Discord:** [Generic](https://discord.com/users/187105028513857536)
 
   
