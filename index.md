@@ -57,6 +57,7 @@ A tool designed to organize and manage periodic events, built using:
 ## Favorite Videogames 🎮
 
 - **Deep Rock Galactic**
+- **Bomb Rush Cyberfunk**
 - **Metro Exodus**
 - **Doom Eternal**
 - **Dishonored**
