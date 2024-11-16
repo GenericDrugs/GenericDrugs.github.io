@@ -10,6 +10,9 @@ An avid computer and video game enthusiast turned professional,
 
 
 ## Currently Reading 📚
+- [*Linux Pocket Guide*](https://linuxpocketguide.com/)
+
+## Finished 
 - [*The Pragmatic Programmer: 20th Anniversary Edition*](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 ## Currently Learning 🧠
