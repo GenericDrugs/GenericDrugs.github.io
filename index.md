@@ -2,6 +2,7 @@
 layout: default
 ---
 ![Myself](/assets/me.png)
+
 An avid computer and video game enthusiast turned professional,
  I’ve spent most of my life immersed in tech starting with tinkering and troubleshooting,
   which naturally led me to pursue a bachelor’s degree in computer science. Fast forward to today,
