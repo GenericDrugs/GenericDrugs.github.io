@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
-![Myself](/assets/me.png)  
+![Myself](/assets/me.png)
 An avid computer and video game enthusiast turned professional,
  I’ve spent most of my life immersed in tech starting with tinkering and troubleshooting,
   which naturally led me to pursue a bachelor’s degree in computer science. Fast forward to today,
    and I’m now three years into my career with a software company,
-    where I get to apply my passion and skills every day to solve complex challenges and create impactful solutions.  
+    where I get to apply my passion and skills every day to solve complex challenges and create impactful solutions.
 
 
 ## Currently Reading 📚
-- [*Introducing GO*](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
+- [*The Practice of Programming*](https://en.wikipedia.org/wiki/The_Practice_of_Programming)
 ## Finished 📕
+- [*Introducing GO*](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
 - [*The Pragmatic Programmer: 20th Anniversary Edition*](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 - [*Linux Pocket Guide*](https://linuxpocketguide.com/)
 
@@ -49,13 +50,13 @@ A tool designed to organize and manage periodic events, built using:
 
 ## Experience 💼
 
-| Role                                                                                              | Duration    |
-|---------------------------------------------------------------------------------------------------|-------------|
-| [**Software Developer at Imaginary Cloud**](https://www.imaginarycloud.com/)                     | 2022 - Present |
-| [**Student, Lisbon School of Engineering (ISEL)**](https://www.isel.pt/)                    | 2018 - 2022 |
-| [**Student Internship, UbiXploit - Information Assurance Technologies**](https://www.ubixploit.pt/) | 2018 |
-| [**Student Internship, Plural Entertainment**](https://pluralentertainment.com/en/)         | 2017 |
-| [**Student, Digital (Professional School)**](https://escoladigital.com/)                    | 2015 - 2018 |
+| Role                                                                                                | Duration       |
+| --------------------------------------------------------------------------------------------------- | -------------- |
+| [**Software Developer at Imaginary Cloud**](https://www.imaginarycloud.com/)                        | 2022 - Present |
+| [**Student, Lisbon School of Engineering (ISEL)**](https://www.isel.pt/)                            | 2018 - 2022    |
+| [**Student Internship, UbiXploit - Information Assurance Technologies**](https://www.ubixploit.pt/) | 2018           |
+| [**Student Internship, Plural Entertainment**](https://pluralentertainment.com/en/)                 | 2017           |
+| [**Student, Digital (Professional School)**](https://escoladigital.com/)                            | 2015 - 2018    |
 
 ## Favorite Videogames 🎮
 
@@ -72,11 +73,10 @@ A tool designed to organize and manage periodic events, built using:
 - **Pokemon Leaf Green**
 - **Ultrakill**
 - **Hades**
-  
+
 ## Contact Me 🔗
 
 - **Email:** [hugomdias.st@gmail.com](mailto:hugomdias.st@gmail.com)
 - **Github:** [GenericDrugs](https://github.com/GenericDrugs)
 - **Discord:** [Generic](https://discord.com/users/187105028513857536)
 
-  
