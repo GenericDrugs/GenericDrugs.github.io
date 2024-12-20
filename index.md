@@ -11,8 +11,9 @@ An avid computer and video game enthusiast turned professional,
 
 
 ## Currently Reading 📚
-- [*The Practice of Programming*](https://en.wikipedia.org/wiki/The_Practice_of_Programming)
+- Picking...
 ## Finished 📕
+- [*The Practice of Programming*](https://en.wikipedia.org/wiki/The_Practice_of_Programming)
 - [*Introducing GO*](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
 - [*The Pragmatic Programmer: 20th Anniversary Edition*](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 - [*Linux Pocket Guide*](https://linuxpocketguide.com/)
