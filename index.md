@@ -11,7 +11,7 @@ An avid computer and video game enthusiast turned professional,
 
 
 ## Currently Reading 📚
-- Picking...
+- [*Code Complete*](https://en.wikipedia.org/wiki/Code_Complete)
 ## Finished 📕
 - [*The Practice of Programming*](https://en.wikipedia.org/wiki/The_Practice_of_Programming)
 - [*Introducing GO*](https://www.oreilly.com/library/view/introducing-go/9781491941997/)
