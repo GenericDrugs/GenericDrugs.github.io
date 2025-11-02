@@ -55,7 +55,7 @@ A tool designed to organize and manage periodic events, built using:
 | Role                                                                                                | Duration       |
 | --------------------------------------------------------------------------------------------------- | -------------- |
 | [**Software Developer at Siemens**](https://www.siemens.com/global/en/products/services/gbs.html)                        | 2022 - 2025 |
-| [**Software Developer at Imaginary Cloud**](https://www.imaginarycloud.com/)                        | 2022 - 2025 |
+| [**Software Developer at Imaginary Cloud**](https://www.imaginarycloud.com/)                        | 2022 - Present |
 | [**Student, Lisbon School of Engineering (ISEL)**](https://www.isel.pt/)                            | 2018 - 2022    |
 | [**Student Internship, UbiXploit - Information Assurance Technologies**](https://www.ubixploit.pt/) | 2018           |
 | [**Student Internship, Plural Entertainment**](https://pluralentertainment.com/en/)                 | 2017           |
