@@ -54,6 +54,7 @@ A tool designed to organize and manage periodic events, built using:
 
 | Role                                                                                                | Duration       |
 | --------------------------------------------------------------------------------------------------- | -------------- |
+| [**Software Developer at Siemens**](https://www.siemens.com/global/en/products/services/gbs.html)                        | 2022 - 2025 |
 | [**Software Developer at Imaginary Cloud**](https://www.imaginarycloud.com/)                        | 2022 - 2025 |
 | [**Student, Lisbon School of Engineering (ISEL)**](https://www.isel.pt/)                            | 2018 - 2022    |
 | [**Student Internship, UbiXploit - Information Assurance Technologies**](https://www.ubixploit.pt/) | 2018           |
@@ -81,4 +82,3 @@ A tool designed to organize and manage periodic events, built using:
 - **Email:** [hugomdias.st@gmail.com](mailto:hugomdias.st@gmail.com)
 - **Github:** [GenericDrugs](https://github.com/GenericDrugs)
 - **Discord:** [Generic](https://discord.com/users/187105028513857536)
-
